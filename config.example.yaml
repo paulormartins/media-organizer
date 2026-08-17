@@ -1,0 +1,15 @@
+integrations:
+  jellyfin:
+    enabled: true
+    url:
+    api_key: "YOUR_API_KEY"
+
+  radarr:
+    enabled: true
+    url: 
+    api_key: "YOUR_API_KEY"
+
+  sonarr:
+    enabled: true
+    url: 
+    api_key: "YOUR_API_KEY"
