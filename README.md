@@ -426,6 +426,3 @@ Upcoming
 - GitHub Actions
 
 ---
-
-
-https://github.com/paulormartins
