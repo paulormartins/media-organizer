@@ -427,18 +427,5 @@ Upcoming
 
 ---
 
-# License
-
-MIT
-
----
-
-# Author
-
-Paulo Rafael Costa Martins
-
-Computer Engineer
-
-GitHub
 
 https://github.com/paulormartins
